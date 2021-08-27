@@ -1,4 +1,5 @@
-### Hola, mi nombre es Alexis y soy Full Stack Developer!  👋 :computer:
+![Port](https://midu.dev/images/wallpapers/una-taza-de-javascript.png)
+<h1 align='center'> Hola, mi nombre es Alexis y soy Full Stack Developer!  👋 :computer: </h1>
 
 
  
@@ -23,7 +24,7 @@ const developer = {
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Styled-Components, Node, Express, Sequelize],
   dataBase: [Postgres],
-  futureTechnologies: [Python, Go, Ruby, Php, MongoDb, Angular,]
+  futureTechnologies: [Python, Go, Ruby, Php, MongoDb, Angular]
 }
 ```
 
