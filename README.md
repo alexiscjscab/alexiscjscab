@@ -1,4 +1,4 @@
-![Port](https://midu.dev/images/wallpapers/una-taza-de-javascript.png)
+
 <h1 align='center'> Hola, mi nombre es Alexis y soy Full Stack Developer!  👋 :computer: </h1>
 
 
