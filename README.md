@@ -1,4 +1,15 @@
-### Hi Alexis Beas 👋
+### Hola, mi nombre es Alexis y soy Full Stack Developer!  👋 :computer:
+
+
+ 
+<h2> Henry Bootcamp ( +700 hs) </h2>
+
+<ul>
+  <li><span><strong>HTML, CSS </strong> </span>
+  <li><span><strong>Algoritms, Data Structures, Javascript ES6+ </strong> </span>
+  <li><span><strong>Bootstrap, LESS, React, Redux </strong> </span>
+  <li><span><strong>Node, Express, Postgres, Sequelize </strong> </span>
+</ul> 
 
 
 ``` js
@@ -10,7 +21,7 @@ const developer = {
     country: 'Argentina'
   },
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Styled-Components,Bootstrap, Node, Express, Sequelize],
+  tools: [React, Redux, Styled-Components, Node, Express, Sequelize],
   dataBase: [Postgres],
 }
 ```
@@ -21,8 +32,7 @@ const developer = {
 
 
 
-Me podes contactar en:
-**[Linkedin](https://www.linkedin.com/in/alexis-beas-dev/)** 
+
 
 <h2> Me podes contactar en: </h2>
 
