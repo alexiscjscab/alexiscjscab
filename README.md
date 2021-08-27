@@ -23,6 +23,7 @@ const developer = {
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Styled-Components, Node, Express, Sequelize],
   dataBase: [Postgres],
+  futureTechnologies: [Python, Go, Ruby, Php, MongoDb, Angular,]
 }
 ```
 
