@@ -15,15 +15,14 @@
 
 ``` js
 const developer = {
-  person:{
+  info: {
     name: ['Alexis' , 'Nahuel'],
     lastname: ['Beas', 'Rosa'],
     age: 23,
     country: 'Argentina'
   },
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Styled-Components, Node, Express, Sequelize],
-  dataBase: [Postgres],
+  tools: [React, Redux, Styled-Components, Node, Express, Sequelize, Postgres],
   futureTechnologies: [Python, Go, Ruby, Php, MongoDb, Angular]
 }
 ```
@@ -39,9 +38,12 @@ const developer = {
 <h2> Me podes contactar en: </h2>
 
 <p>
+    Linkedin
     <a href="https://www.linkedin.com/in/alexis-beas-dev/">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" />
     </a>
+    <br/>
+    GitHub
     <a href="https://github.com/alexiscjscab">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" />
     </a>
