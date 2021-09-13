@@ -38,16 +38,15 @@ const developer = {
 <h2> Me podes contactar en: </h2>
 
 <p>
-   
     <a href="https://www.linkedin.com/in/alexis-beas-dev/">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" />
     </a>
-    <br>
+    <br/>
     <a href="https://github.com/alexiscjscab">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" />
     </a>
     <br/>
-    <img align="center" src="https://w7.pngwing.com/pngs/53/385/png-transparent-computer-icons-email-electronic-mailing-list-email-miscellaneous-logo-black-and-white.png" height="30" width="30"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30"/>
 <p/>
 
 <hr/>
