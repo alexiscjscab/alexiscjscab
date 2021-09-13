@@ -46,7 +46,10 @@ const developer = {
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" />
     </a>
     <br/>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30"/>
+    <a href="mailto:alexiscjscab@gmail.com" target=”_blank”>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30"/>
+    </a>
+    
 <p/>
 
 <hr/>
