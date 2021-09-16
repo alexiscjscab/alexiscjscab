@@ -22,7 +22,7 @@ const developer = {
     country: 'Argentina'
   },
   technologies: [Javascript, HTML, CSS, React, Redux, Styled-Components, Node, Express, Sequelize, Postgres, Typescript],
-  futureTechnologies: [React Native, Python, Go, Ruby, Php, Java, , MongoDb, Angular]
+  futureTechnologies: [React Native, Python, Go, Ruby, Php, Java, MongoDb, Angular]
 }
 
 
