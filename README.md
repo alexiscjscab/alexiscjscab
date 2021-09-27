@@ -21,7 +21,7 @@ const developer = {
     age: 23,
     country: 'Argentina'
   },
-  technologies: [Javascript, HTML, CSS, React, Redux, Styled-Components, Node, Express, Sequelize, Postgres, Typescript],
+  technologies: [Javascript, HTML, CSS, Typescript, React, Redux, Styled-Components, Node, Express, Sequelize, Postgres],
   futureTechnologies: [React Native, Python, Go, Ruby, Php, Java, MongoDb, Angular]
 }
 
