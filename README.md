@@ -1,9 +1,9 @@
-
+![Port](https://user-images.githubusercontent.com/58223692/95631179-9bf7af80-0a59-11eb-8120-a4a064c956b7.jpg)
 <h1 align='center'> Hola, mi nombre es Alexis y soy Full Stack Developer!  👋 :computer: </h1>
 
 
  
-<h2> Henry Bootcamp ( +700 hs) </h2>
+<h2> Henry Bootcamp ( +800 hs) </h2>
 
 <ul>
   <li><span><strong>HTML, CSS </strong> </span>
@@ -27,6 +27,7 @@ const developer = {
 
 
 ```
+
 
 
 <h2> Me podes contactar en: </h2>
