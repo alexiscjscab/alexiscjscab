@@ -14,6 +14,9 @@
 
 
 ``` js
+
+console.log('Hola Mundo')
+
 const developer = {
   info: {
     name: ['Alexis' , 'Nahuel'],
@@ -21,8 +24,33 @@ const developer = {
     age: 23,
     country: 'Argentina'
   },
-  technologies: [Javascript, HTML, CSS, Typescript, React, Redux, Styled-Components, Node, Express, Sequelize, Postgres],
-  futureTechnologies: [React Native, Python, Go, Ruby, Php, Java, MongoDb, Angular]
+  technologies: [
+    Javascript, 
+    HTML, 
+    CSS, 
+    Typescript, 
+    React, 
+    Redux, 
+    Styled-Components, 
+    Node, 
+    Express, 
+    Sequelize, 
+    Postgres,
+    MySql
+  ],
+  futureTechnologies: [
+    React Native,
+    Vue,
+    Angular, 
+    Flutter,
+    MongoDb,
+    GraphQl,
+    Python, 
+    Go, 
+    Ruby,
+    Php,
+    Java,
+ ]
 }
 
 
