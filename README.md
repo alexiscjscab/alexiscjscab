@@ -27,16 +27,19 @@ const developer = {
   technologies: [
     Javascript, 
     HTML, 
-    CSS, 
+    CSS,
+    SASS,
     Typescript, 
     React, 
-    Redux, 
-    Styled-Components, 
+    Redux,  
     Node, 
     Express, 
     Sequelize, 
     Postgres,
-    MySql
+    MySql,
+    Styled-Components,
+    ChakraUI,
+    MaterialUI,
   ],
   futureTechnologies: [
     React Native,
