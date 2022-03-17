@@ -42,10 +42,11 @@ const developer = {
     React, 
     Redux,  
     Node, 
-    Express, 
-    Sequelize, 
+    Express,  
     Postgres,
-    MySql,
+    MySQL,
+    MongoDB,
+    Sequelize,
     GraphQl,
     Styled-Components,
     ChakraUI,
@@ -56,7 +57,6 @@ const developer = {
     Vue,
     Angular, 
     Flutter,
-    MongoDb,
     Python, 
     Go, 
     Ruby,
@@ -75,17 +75,20 @@ const developer = {
 <p>
     <a href="https://www.linkedin.com/in/alexis-beas-dev/">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" />
+      Linkedin
     </a>
-    <br/>
+    <hr/>
     <a href="https://github.com/alexiscjscab">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" />
+      GitHub
     </a>
-    <br/>
+    <hr/>
     <a href="mailto:alexiscjscab@gmail.com" target=”_blank”>
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="30"/>
+      Mail
     </a>
-    
-<p/>
+ </p>   
+
 
 <hr/>
 
