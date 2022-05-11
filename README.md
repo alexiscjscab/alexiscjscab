@@ -3,14 +3,14 @@
 
 
  
-<h2> Henry Bootcamp ( +800 hs) 2021-2021 </h2>
+<h2> Henry Bootcamp ( +800 hs code) 2021 </h2>
 
 <ul>
   <li><span><strong>HTML, CSS </strong> </span>
   <li><span><strong>Algoritms, Data Structures, Javascript ES6+ </strong> </span>
   <li><span><strong>Bootstrap, LESS, React, Redux </strong> </span>
   <li><span><strong>Node, Express, Postgres, Sequelize </strong> </span>
-   <li><span><strong>individual project and group project </strong> </span>
+   <li><span><strong>Individual project / Group project </strong> </span>
 </ul> 
 
 
