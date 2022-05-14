@@ -33,11 +33,12 @@ const developer = {
     age: 23,
     country: 'Argentina'
   },
-  technologies: {
+  skills: {
    language: [Javascript, Typescript],
    front: [HTML, CSS, SASS, React, Redux, MaterialUI, ChakraUI, Boostrap],
    back: [Express, Sequelize, Postgres, MySQL],
-  },
+   others: [Git, SCRUM, GraphQL, Photoshop, Jira, Trello],
+   },
   futureTechnologies: [
     ReactNative, Vue, Angular, Flutter, Python, C#, Java, Go, Ruby
   ],
