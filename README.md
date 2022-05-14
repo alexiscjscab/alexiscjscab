@@ -33,38 +33,18 @@ const developer = {
     age: 23,
     country: 'Argentina'
   },
-  technologies: [
-    Javascript, 
-    HTML, 
-    CSS,
-    SASS,
-    Typescript, 
-    React, 
-    Redux,  
-    Node, 
-    Express,  
-    Postgres,
-    MySQL,
-    MongoDB,
-    Sequelize,
-    GraphQl,
-    Styled-Components,
-    ChakraUI,
-    MaterialUI,
-  ],
+  technologies: {
+   language: [Javascript, Typescript],
+   front: [HTML, CSS, SASS, React, Redux, MaterialUI, ChakraUI, Boostrap],
+   back: [Express, Sequelize, Postgres, MySQL],
+  },
   futureTechnologies: [
-    React Native,
-    Vue,
-    Angular, 
-    Flutter,
-    Python, 
-    Go, 
-    Ruby,
-    Php,
-    Java,
- ]
-}
-
+    ReactNative, Vue, Angular, Flutter, Python, C#, Java, Go, Ruby
+  ],
+  work: () => {
+   console.log('Working as front')
+  }
+};
 
 ```
 
