@@ -36,7 +36,7 @@ const developer = {
   skills: {
    language: [Javascript, Typescript],
    front: [HTML, CSS, SASS, React, Redux, MaterialUI, ChakraUI, Boostrap],
-   back: [Express, Sequelize, Postgres, MySQL],
+   back: [Express, Sequelize, Postgres, MySQL, MongoDB],
    others: [Git, SCRUM, GraphQL, Photoshop, Jira, Trello],
    },
   futureTechnologies: [
