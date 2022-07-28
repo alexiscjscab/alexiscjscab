@@ -34,12 +34,12 @@ const developer = {
     country: 'Argentina'
   },
   skills: {
-   language: [Javascript, Typescript],
-   front: [HTML, CSS, SASS, React, Redux, MaterialUI, ChakraUI, Boostrap],
+   languages: [Javascript, Typescript],
+   front: [HTML, CSS, SASS, React, Next, Redux, MaterialUI, ChakraUI, Boostrap],
    back: [Express, Sequelize, Postgres, MySQL, MongoDB],
-   others: [Git, SCRUM, GraphQL, Photoshop, Jira, Trello],
+   others: [Git, SCRUM, GraphQL, Photoshop],
    },
-  futureTechnologies: [
+  futureLenguages: [
     ReactNative, Vue, Angular, Flutter, Python, C#, Java, Go, Ruby
   ],
   work: () => {
