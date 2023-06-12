@@ -12,7 +12,7 @@ const developer = {
   info: {
     name: ['Alexis' , 'Nahuel'],
     lastname: ['Beas', 'Rosa'],
-    age: 23,
+    age: 25,
     country: 'Argentina'
   },
   skills: {
